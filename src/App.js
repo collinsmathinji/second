@@ -14,7 +14,6 @@ export default function App() {
         )
     })        
     
-            // <Hero />
     return (
         <div>
             <Navbar />
